@@ -1,2 +1,1 @@
-from app import app
-app.run(debug = True)
+#!/usr/bin/pythonfrom app import appapp.run(debug = True)
